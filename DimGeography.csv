@@ -1,0 +1,633 @@
+region;state;city;postalcode
+Central;Illinois;Arlington Heights;60004
+Central;Illinois;Aurora;60505
+Central;Illinois;Bloomington;61701
+Central;Illinois;Bolingbrook;60440
+Central;Illinois;Buffalo Grove;60089
+Central;Illinois;Carol Stream;60188
+Central;Illinois;Champaign;61821
+Central;Illinois;Chicago;60623
+Central;Illinois;Chicago;60610
+Central;Illinois;Chicago;60653
+Central;Illinois;Danville;61832
+Central;Illinois;Decatur;62521
+Central;Illinois;Des Plaines;60016
+Central;Illinois;Elmhurst;60126
+Central;Illinois;Evanston;60201
+Central;Illinois;Frankfort;60423
+Central;Illinois;Freeport;61032
+Central;Illinois;Glenview;60025
+Central;Illinois;Highland Park;60035
+Central;Illinois;Naperville;60540
+Central;Illinois;Normal;61761
+Central;Illinois;Oak Park;60302
+Central;Illinois;Orland Park;60462
+Central;Illinois;Oswego;60543
+Central;Illinois;Palatine;60067
+Central;Illinois;Park Ridge;60068
+Central;Illinois;Peoria;61604
+Central;Illinois;Quincy;62301
+Central;Illinois;Rockford;61107
+Central;Illinois;Romeoville;60441
+Central;Illinois;Saint Charles;60174
+Central;Illinois;Skokie;60076
+Central;Illinois;Tinley Park;60477
+Central;Illinois;Wheeling;60090
+Central;Illinois;Woodstock;60098
+Central;Indiana;Bloomington;47401
+Central;Indiana;Columbus;47201
+Central;Indiana;Elkhart;46514
+Central;Indiana;Greenwood;46142
+Central;Indiana;Indianapolis;46203
+Central;Indiana;La Porte;46350
+Central;Indiana;Lafayette;47905
+Central;Indiana;Lawrence;46226
+Central;Indiana;Mishawaka;46544
+Central;Indiana;New Albany;47150
+Central;Indiana;New Castle;47362
+Central;Indiana;Noblesville;46060
+Central;Indiana;Portage;46368
+Central;Indiana;Richmond;47374
+Central;Indiana;South Bend;46614
+Central;Iowa;Burlington;52601
+Central;Iowa;Cedar Rapids;52402
+Central;Iowa;Des Moines;50315
+Central;Iowa;Dubuque;52001
+Central;Iowa;Iowa City;52240
+Central;Iowa;Marion;52302
+Central;Iowa;Urbandale;50322
+Central;Iowa;Waterloo;50701
+Central;Kansas;Garden City;67846
+Central;Kansas;Manhattan;66502
+Central;Kansas;Olathe;66062
+Central;Kansas;Overland Park;66212
+Central;Kansas;Wichita;67212
+Central;Michigan;Ann Arbor;48104
+Central;Michigan;Canton;48187
+Central;Michigan;Dearborn;48126
+Central;Michigan;Dearborn Heights;48127
+Central;Michigan;Detroit;48227
+Central;Michigan;Detroit;48205
+Central;Michigan;Detroit;48234
+Central;Michigan;Grand Rapids;49505
+Central;Michigan;Holland;49423
+Central;Michigan;Jackson;49201
+Central;Michigan;Lansing;48911
+Central;Michigan;Lincoln Park;48146
+Central;Michigan;Midland;48640
+Central;Michigan;Mount Pleasant;48858
+Central;Michigan;Oak Park;48237
+Central;Michigan;Rochester Hills;48307
+Central;Michigan;Roseville;48066
+Central;Michigan;Royal Oak;48073
+Central;Michigan;Saginaw;48601
+Central;Michigan;Sterling Heights;48310
+Central;Michigan;Taylor;48180
+Central;Michigan;Trenton;48183
+Central;Michigan;Westland;48185
+Central;Minnesota;Apple Valley;55124
+Central;Minnesota;Coon Rapids;55433
+Central;Minnesota;Cottage Grove;55016
+Central;Minnesota;Eagan;55122
+Central;Minnesota;Lakeville;55044
+Central;Minnesota;Maple Grove;55369
+Central;Minnesota;Minneapolis;55407
+Central;Minnesota;Moorhead;56560
+Central;Minnesota;Rochester;55901
+Central;Minnesota;Roseville;55113
+Central;Minnesota;Saint Cloud;56301
+Central;Minnesota;Saint Paul;55106
+Central;Minnesota;Woodbury;55125
+Central;Missouri;Columbia;65203
+Central;Missouri;Gladstone;64118
+Central;Missouri;Independence;64055
+Central;Missouri;Jefferson City;65109
+Central;Missouri;Kirkwood;63122
+Central;Missouri;Saint Charles;63301
+Central;Missouri;Saint Louis;63116
+Central;Missouri;Saint Peters;63376
+Central;Missouri;Springfield;65807
+Central;Nebraska;Fremont;68025
+Central;Nebraska;Grand Island;68801
+Central;Nebraska;Norfolk;68701
+Central;Nebraska;Omaha;68104
+Central;North Dakota;Fargo;58103
+Central;Oklahoma;Broken Arrow;74012
+Central;Oklahoma;Edmond;73034
+Central;Oklahoma;Lawton;73505
+Central;Oklahoma;Muskogee;74403
+Central;Oklahoma;Norman;73071
+Central;Oklahoma;Oklahoma City;73120
+Central;Oklahoma;Tulsa;74133
+Central;South Dakota;Aberdeen;57401
+Central;South Dakota;Rapid City;57701
+Central;South Dakota;Sioux Falls;57103
+Central;Texas;Abilene;79605
+Central;Texas;Allen;75002
+Central;Texas;Amarillo;79109
+Central;Texas;Arlington;76017
+Central;Texas;Austin;78745
+Central;Texas;Baytown;77520
+Central;Texas;Beaumont;77705
+Central;Texas;Bedford;76021
+Central;Texas;Brownsville;78521
+Central;Texas;Bryan;77803
+Central;Texas;Carrollton;75007
+Central;Texas;Cedar Hill;75104
+Central;Texas;College Station;77840
+Central;Texas;Conroe;77301
+Central;Texas;Coppell;75019
+Central;Texas;Corpus Christi;78415
+Central;Texas;Dallas;75081
+Central;Texas;Dallas;75217
+Central;Texas;Dallas;75220
+Central;Texas;Deer Park;77536
+Central;Texas;Edinburg;78539
+Central;Texas;El Paso;79907
+Central;Texas;Fort Worth;76106
+Central;Texas;Frisco;75034
+Central;Texas;Garland;75043
+Central;Texas;Grand Prairie;75051
+Central;Texas;Grapevine;76051
+Central;Texas;Haltom City;76117
+Central;Texas;Harlingen;78550
+Central;Texas;Houston;77041
+Central;Texas;Houston;77036
+Central;Texas;Houston;77070
+Central;Texas;Houston;77095
+Central;Texas;Huntsville;77340
+Central;Texas;Irving;75061
+Central;Texas;Keller;76248
+Central;Texas;La Porte;77571
+Central;Texas;Laredo;78041
+Central;Texas;League City;77573
+Central;Texas;Lubbock;79424
+Central;Texas;Mansfield;76063
+Central;Texas;Mcallen;78501
+Central;Texas;Mesquite;75150
+Central;Texas;Missouri City;77489
+Central;Texas;Odessa;79762
+Central;Texas;Pasadena;77506
+Central;Texas;Pearland;77581
+Central;Texas;Pharr;78577
+Central;Texas;Plano;75023
+Central;Texas;Port Arthur;77642
+Central;Texas;Richardson;75080
+Central;Texas;Round Rock;78664
+Central;Texas;San Angelo;76903
+Central;Texas;San Antonio;78207
+Central;Texas;San Marcos;78666
+Central;Texas;Texas City;77590
+Central;Texas;The Colony;75056
+Central;Texas;Tyler;75701
+Central;Texas;Waco;76706
+Central;Wisconsin;Appleton;54915
+Central;Wisconsin;Eau Claire;54703
+Central;Wisconsin;Franklin;53132
+Central;Wisconsin;Green Bay;54302
+Central;Wisconsin;Kenosha;53142
+Central;Wisconsin;La Crosse;54601
+Central;Wisconsin;Madison;53711
+Central;Wisconsin;Milwaukee;53209
+Central;Wisconsin;Sheboygan;53081
+Central;Wisconsin;Superior;54880
+Central;Wisconsin;Waukesha;53186
+Central;Wisconsin;Wausau;54401
+Central;Wisconsin;West Allis;53214
+East;Connecticut;Bristol;6010
+East;Connecticut;Danbury;6810
+East;Connecticut;Fairfield;6824
+East;Connecticut;Manchester;6040
+East;Connecticut;Meriden;6450
+East;Connecticut;Middletown;6457
+East;Connecticut;Milford;6460
+East;Connecticut;Norwich;6360
+East;Connecticut;Shelton;6484
+East;Connecticut;Waterbury;6708
+East;Delaware;Dover;19901
+East;Delaware;Newark;19711
+East;Delaware;Wilmington;19805
+East;District of Columbia;Washington;20016
+East;Maine;Bangor;4401
+East;Maine;Lewiston;4240
+East;Maryland;Baltimore;21215
+East;Maryland;Clinton;20735
+East;Maryland;Columbia;21044
+East;Maryland;Gaithersburg;20877
+East;Maryland;Hagerstown;21740
+East;Maryland;Laurel;20707
+East;Maryland;Rockville;20852
+East;Massachusetts;Andover;1810
+East;Massachusetts;Beverly;1915
+East;Massachusetts;Cambridge;2138
+East;Massachusetts;Everett;2149
+East;Massachusetts;Franklin;2038
+East;Massachusetts;Holyoke;1040
+East;Massachusetts;Lawrence;1841
+East;Massachusetts;Leominster;1453
+East;Massachusetts;Lowell;1852
+East;Massachusetts;Malden;2148
+East;Massachusetts;Marlborough;1752
+East;Massachusetts;New Bedford;2740
+East;Massachusetts;Quincy;2169
+East;Massachusetts;Revere;2151
+East;New Hampshire;Concord;3301
+East;New Hampshire;Dover;3820
+East;New Hampshire;Nashua;3060
+East;New Jersey;Atlantic City;8401
+East;New Jersey;Bayonne;7002
+East;New Jersey;Belleville;7109
+East;New Jersey;Bridgeton;8302
+East;New Jersey;Clifton;7011
+East;New Jersey;East Orange;7017
+East;New Jersey;Hackensack;7601
+East;New Jersey;Lakewood;8701
+East;New Jersey;Linden;7036
+East;New Jersey;Morristown;7960
+East;New Jersey;New Brunswick;8901
+East;New Jersey;Orange;7050
+East;New Jersey;Passaic;7055
+East;New Jersey;Paterson;7501
+East;New Jersey;Perth Amboy;8861
+East;New Jersey;Plainfield;7060
+East;New Jersey;Vineland;8360
+East;New Jersey;Westfield;7090
+East;New York;Auburn;13021
+East;New York;Buffalo;14215
+East;New York;Freeport;11520
+East;New York;Hempstead;11550
+East;New York;Jamestown;14701
+East;New York;Lindenhurst;11757
+East;New York;Long Beach;11561
+East;New York;Mount Vernon;10550
+East;New York;New Rochelle;10801
+East;New York;New York City;10024
+East;New York;New York City;10035
+East;New York;New York City;10011
+East;New York;New York City;10009
+East;New York;Niagara Falls;14304
+East;New York;Oceanside;11572
+East;New York;Rochester;14609
+East;New York;Rome;13440
+East;New York;Troy;12180
+East;New York;Utica;13501
+East;New York;Watertown;13601
+East;New York;Yonkers;10701
+East;Ohio;Akron;44312
+East;Ohio;Bowling Green;43402
+East;Ohio;Cincinnati;45231
+East;Ohio;Cleveland;44105
+East;Ohio;Columbus;43229
+East;Ohio;Cuyahoga Falls;44221
+East;Ohio;Dublin;43017
+East;Ohio;Elyria;44035
+East;Ohio;Fairfield;45014
+East;Ohio;Grove City;43123
+East;Ohio;Hamilton;45011
+East;Ohio;Kent;44240
+East;Ohio;Lakewood;44107
+East;Ohio;Lancaster;43130
+East;Ohio;Lorain;44052
+East;Ohio;Marion;43302
+East;Ohio;Mason;45040
+East;Ohio;Medina;44256
+East;Ohio;Mentor;44060
+East;Ohio;Newark;43055
+East;Ohio;Parma;44134
+East;Ohio;Springfield;45503
+East;Ohio;Toledo;43615
+East;Ohio;Troy;45373
+East;Pennsylvania;Allentown;18103
+East;Pennsylvania;Altoona;16602
+East;Pennsylvania;Bethlehem;18018
+East;Pennsylvania;Chester;19013
+East;Pennsylvania;Lancaster;17602
+East;Pennsylvania;Philadelphia;19134
+East;Pennsylvania;Philadelphia;19143
+East;Pennsylvania;Philadelphia;19140
+East;Pennsylvania;Philadelphia;19120
+East;Pennsylvania;Reading;19601
+East;Pennsylvania;York;17403
+East;Rhode Island;Cranston;2920
+East;Rhode Island;Providence;2908
+East;Rhode Island;Warwick;2886
+East;Rhode Island;Woonsocket;2895
+East;Vermont;Burlington;5408
+East;West Virginia;Wheeling;26003
+South;Alabama;Auburn;36830
+South;Alabama;Decatur;35601
+South;Alabama;Florence;35630
+South;Alabama;Hoover;35244
+South;Alabama;Huntsville;35810
+South;Alabama;Mobile;36608
+South;Alabama;Montgomery;36116
+South;Alabama;Tuscaloosa;35401
+South;Arkansas;Conway;72032
+South;Arkansas;Fayetteville;72701
+South;Arkansas;Hot Springs;71901
+South;Arkansas;Jonesboro;72401
+South;Arkansas;Little Rock;72209
+South;Arkansas;Pine Bluff;71603
+South;Arkansas;Rogers;72756
+South;Arkansas;Springdale;72762
+South;Arkansas;Texarkana;71854
+South;Florida;Apopka;32712
+South;Florida;Boca Raton;33433
+South;Florida;Boynton Beach;33437
+South;Florida;Coral Gables;33134
+South;Florida;Coral Springs;33065
+South;Florida;Daytona Beach;32114
+South;Florida;Delray Beach;33445
+South;Florida;Deltona;32725
+South;Florida;Fort Lauderdale;33311
+South;Florida;Hialeah;33012
+South;Florida;Hollywood;33021
+South;Florida;Homestead;33030
+South;Florida;Jacksonville;32216
+South;Florida;Jupiter;33458
+South;Florida;Kissimmee;34741
+South;Florida;Lakeland;33801
+South;Florida;Margate;33063
+South;Florida;Melbourne;32935
+South;Florida;Miami;33180
+South;Florida;Miami;33178
+South;Florida;Miami;33142
+South;Florida;Miramar;33023
+South;Florida;North Miami;33161
+South;Florida;Orlando;32839
+South;Florida;Ormond Beach;32174
+South;Florida;Palm Coast;32137
+South;Florida;Pembroke Pines;33024
+South;Florida;Pensacola;32503
+South;Florida;Plantation;33317
+South;Florida;Pompano Beach;33068
+South;Florida;Port Orange;32127
+South;Florida;Port Saint Lucie;34952
+South;Florida;Saint Petersburg;33710
+South;Florida;Sanford;32771
+South;Florida;Tallahassee;32303
+South;Florida;Tamarac;33319
+South;Florida;Tampa;33614
+South;Florida;West Palm Beach;33407
+South;Georgia;Athens;30605
+South;Georgia;Atlanta;30318
+South;Georgia;Columbus;31907
+South;Georgia;East Point;30344
+South;Georgia;Macon;31204
+South;Georgia;Marietta;30062
+South;Georgia;Roswell;30076
+South;Georgia;Sandy Springs;30328
+South;Georgia;Smyrna;30080
+South;Georgia;Warner Robins;31088
+South;Georgia;Woodstock;30188
+South;Kentucky;Bowling Green;42104
+South;Kentucky;Florence;41042
+South;Kentucky;Georgetown;40324
+South;Kentucky;Henderson;42420
+South;Kentucky;Louisville;40214
+South;Kentucky;Murray;42071
+South;Kentucky;Owensboro;42301
+South;Kentucky;Richmond;40475
+South;Louisiana;Bossier City;71111
+South;Louisiana;Kenner;70065
+South;Louisiana;Lafayette;70506
+South;Louisiana;Lake Charles;70601
+South;Louisiana;Monroe;71203
+South;Mississippi;Gulfport;39503
+South;Mississippi;Hattiesburg;39401
+South;Mississippi;Jackson;39212
+South;Mississippi;Southaven;38671
+South;North Carolina;Asheville;28806
+South;North Carolina;Burlington;27217
+South;North Carolina;Cary;27511
+South;North Carolina;Chapel Hill;27514
+South;North Carolina;Charlotte;28205
+South;North Carolina;Concord;28027
+South;North Carolina;Durham;27707
+South;North Carolina;Fayetteville;28314
+South;North Carolina;Gastonia;28052
+South;North Carolina;Goldsboro;27534
+South;North Carolina;Greensboro;27405
+South;North Carolina;Greenville;27834
+South;North Carolina;Hickory;28601
+South;North Carolina;Jacksonville;28540
+South;North Carolina;Monroe;28110
+South;North Carolina;Raleigh;27604
+South;North Carolina;Thomasville;27360
+South;North Carolina;Wilmington;28403
+South;North Carolina;Wilson;27893
+South;South Carolina;Columbia;29203
+South;South Carolina;Florence;29501
+South;South Carolina;Mount Pleasant;29464
+South;South Carolina;North Charleston;29406
+South;South Carolina;Rock Hill;29730
+South;South Carolina;Summerville;29483
+South;Tennessee;Bartlett;38134
+South;Tennessee;Bristol;37620
+South;Tennessee;Chattanooga;37421
+South;Tennessee;Clarksville;37042
+South;Tennessee;Columbia;38401
+South;Tennessee;Franklin;37064
+South;Tennessee;Hendersonville;37075
+South;Tennessee;Jackson;38301
+South;Tennessee;Johnson City;37604
+South;Tennessee;Knoxville;37918
+South;Tennessee;Lebanon;37087
+South;Tennessee;Memphis;38109
+South;Tennessee;Murfreesboro;37130
+South;Tennessee;Nashville;37211
+South;Tennessee;Smyrna;37167
+South;Virginia;Alexandria;22304
+South;Virginia;Arlington;22204
+South;Virginia;Charlottesville;22901
+South;Virginia;Chesapeake;23320
+South;Virginia;Hampton;23666
+South;Virginia;Harrisonburg;22801
+South;Virginia;Newport News;23602
+South;Virginia;Richmond;23223
+South;Virginia;Salem;24153
+South;Virginia;Springfield;22153
+South;Virginia;Suffolk;23434
+South;Virginia;Virginia Beach;23464
+South;Virginia;Waynesboro;22980
+West;Arizona;Avondale;85323
+West;Arizona;Bullhead City;86442
+West;Arizona;Chandler;85224
+West;Arizona;Gilbert;85234
+West;Arizona;Glendale;85301
+West;Arizona;Mesa;85204
+West;Arizona;Peoria;85345
+West;Arizona;Phoenix;85023
+West;Arizona;Scottsdale;85254
+West;Arizona;Sierra Vista;85635
+West;Arizona;Tempe;85281
+West;Arizona;Tucson;85705
+West;Arizona;Yuma;85364
+West;California;Anaheim;92804
+West;California;Antioch;94509
+West;California;Apple Valley;92307
+West;California;Bakersfield;93309
+West;California;Brentwood;94513
+West;California;Burbank;91505
+West;California;Camarillo;93010
+West;California;Chico;95928
+West;California;Chula Vista;91911
+West;California;Citrus Heights;95610
+West;California;Coachella;92236
+West;California;Concord;94521
+West;California;Costa Mesa;92627
+West;California;Danville;94526
+West;California;Davis;95616
+West;California;Dublin;94568
+West;California;El Cajon;92020
+West;California;Encinitas;92024
+West;California;Escondido;92025
+West;California;Fairfield;94533
+West;California;Fresno;93727
+West;California;Hesperia;92345
+West;California;Huntington Beach;92646
+West;California;Inglewood;90301
+West;California;La Mesa;91941
+West;California;La Quinta;92253
+West;California;Laguna Niguel;92677
+West;California;Lake Elsinore;92530
+West;California;Lake Forest;92630
+West;California;Lakewood;90712
+West;California;Lancaster;93534
+West;California;Lodi;95240
+West;California;Long Beach;90805
+West;California;Los Angeles;90004
+West;California;Los Angeles;90008
+West;California;Los Angeles;90032
+West;California;Los Angeles;90049
+West;California;Los Angeles;90045
+West;California;Los Angeles;90036
+West;California;Manteca;95336
+West;California;Mission Viejo;92691
+West;California;Modesto;95351
+West;California;Montebello;90640
+West;California;Moreno Valley;92553
+West;California;Morgan Hill;95037
+West;California;Murrieta;92563
+West;California;Oakland;94601
+West;California;Oceanside;92054
+West;California;Ontario;91761
+West;California;Oxnard;93030
+West;California;Pasadena;91104
+West;California;Pico Rivera;90660
+West;California;Pomona;91767
+West;California;Rancho Cucamonga;91730
+West;California;Redding;96003
+West;California;Redlands;92374
+West;California;Redondo Beach;90278
+West;California;Redwood City;94061
+West;California;Riverside;92503
+West;California;Roseville;95661
+West;California;Sacramento;95823
+West;California;Salinas;93905
+West;California;San Bernardino;92404
+West;California;San Clemente;92672
+West;California;San Diego;92037
+West;California;San Diego;92014
+West;California;San Diego;92105
+West;California;San Francisco;94122
+West;California;San Francisco;94110
+West;California;San Francisco;94109
+West;California;San Gabriel;91776
+West;California;San Jose;95123
+West;California;San Luis Obispo;93405
+West;California;San Mateo;94403
+West;California;Santa Ana;92704
+West;California;Santa Barbara;93101
+West;California;Santa Clara;95051
+West;California;Santa Maria;93454
+West;California;Stockton;95207
+West;California;Sunnyvale;94086
+West;California;Temecula;92592
+West;California;Thousand Oaks;91360
+West;California;Torrance;90503
+West;California;Vacaville;95687
+West;California;Vallejo;94591
+West;California;Visalia;93277
+West;California;Westminster;92683
+West;California;Whittier;90604
+West;California;Woodland;95695
+West;California;Yucaipa;92399
+West;Colorado;Arvada;80004
+West;Colorado;Aurora;80013
+West;Colorado;Broomfield;80020
+West;Colorado;Colorado Springs;80906
+West;Colorado;Commerce City;80022
+West;Colorado;Denver;80219
+West;Colorado;Englewood;80112
+West;Colorado;Fort Collins;80525
+West;Colorado;Greeley;80634
+West;Colorado;Littleton;80122
+West;Colorado;Longmont;80501
+West;Colorado;Louisville;80027
+West;Colorado;Loveland;80538
+West;Colorado;Parker;80134
+West;Colorado;Pueblo;81001
+West;Colorado;Thornton;80229
+West;Idaho;Boise;83704
+West;Idaho;Caldwell;83605
+West;Idaho;Lewiston;83501
+West;Idaho;Meridian;83642
+West;Idaho;Pocatello;83201
+West;Idaho;Twin Falls;83301
+West;Montana;Billings;59102
+West;Montana;Bozeman;59715
+West;Montana;Great Falls;59405
+West;Montana;Helena;59601
+West;Montana;Missoula;59801
+West;Nevada;Henderson;89015
+West;Nevada;Las Vegas;89115
+West;Nevada;North Las Vegas;89031
+West;Nevada;Reno;89502
+West;Nevada;Sparks;89431
+West;New Mexico;Albuquerque;87105
+West;New Mexico;Carlsbad;88220
+West;New Mexico;Clovis;88101
+West;New Mexico;Farmington;87401
+West;New Mexico;Las Cruces;88001
+West;New Mexico;Rio Rancho;87124
+West;New Mexico;Santa Fe;87505
+West;Oregon;Eugene;97405
+West;Oregon;Gresham;97030
+West;Oregon;Hillsboro;97123
+West;Oregon;Medford;97504
+West;Oregon;Portland;97206
+West;Oregon;Redmond;97756
+West;Oregon;Salem;97301
+West;Oregon;Springfield;97477
+West;Oregon;Tigard;97224
+West;Utah;Draper;84020
+West;Utah;Layton;84041
+West;Utah;Lehi;84043
+West;Utah;Logan;84321
+West;Utah;Murray;84107
+West;Utah;Orem;84057
+West;Utah;Pleasant Grove;84062
+West;Utah;Provo;84604
+West;Utah;Salt Lake City;84106
+West;Utah;West Jordan;84084
+West;Washington;Auburn;98002
+West;Washington;Bellevue;98006
+West;Washington;Bellingham;98226
+West;Washington;Covington;98042
+West;Washington;Des Moines;98198
+West;Washington;Edmonds;98026
+West;Washington;Everett;98208
+West;Washington;Kent;98031
+West;Washington;Longview;98632
+West;Washington;Marysville;98270
+West;Washington;Olympia;98502
+West;Washington;Pasco;99301
+West;Washington;Redmond;98052
+West;Washington;Renton;98059
+West;Washington;Seattle;98103
+West;Washington;Seattle;98115
+West;Washington;Seattle;98105
+West;Washington;Spokane;99207
+West;Washington;Vancouver;98661
+West;Wyoming;Cheyenne;82001
